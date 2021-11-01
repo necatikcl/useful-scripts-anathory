@@ -1,0 +1,12 @@
+node_modules
+.parcel-cache
+.yarn
+.pnp.cjs
+.pnp.loader.cjs
+.pnp.loader.mjs
+yarn.lock
+package-lock.json
+.vscode
+.yarnrc.yml
+.editorconfig
+.gitattributes
