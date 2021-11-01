@@ -1,5 +1,6 @@
 {
-  "name": "useful-scripts",
+  "name": "useful-scripts-anathory",
+  "version": "1.0.0",
   "packageManager": "yarn@3.1.0",
   "devDependencies": {
     "parcel": "^2.0.0"
@@ -9,5 +10,17 @@
   },
   "dependencies": {
     "swiper": "^7.2.0"
-  }
+  },
+  "description": "a lot of useful scripts in one package",
+  "main": "none",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NecatiFK/useful-scripts.git"
+  },
+  "author": "Anathory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NecatiFK/useful-scripts/issues"
+  },
+  "homepage": "https://github.com/NecatiFK/useful-scripts#readme"
 }
